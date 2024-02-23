@@ -12,8 +12,8 @@
 &emsp;&emsp;**基本规则**：充分利用行动点数和元素反应，打败对手所有角色，取得胜利。  
 &emsp;&emsp;**交互方式**：按下相应字符即可进行操作，无需输入。提供五种操作，分别对应数字 1 - 5。界面如图。
 <div align=middle>
-<img src="界面设计 (1).jpg" width=320 height=auto>
-<img src="界面设计 (2).jpg" width=320 height=auto>
+<img src="UI Design (1).jpg" width=320 height=auto>
+<img src="UI Design   (2).jpg" width=320 height=auto>
 </div>  
 
 > &emsp;你可以采取以下行动：  
@@ -38,5 +38,5 @@
 8. ~~制作了原神启动的字符画。~~  
 
 <div align=middle>
-<img src="角色信息.jpg" width=640 height=auto>
+<img src="Character Info.jpg" width=640 height=auto>
 </div>
