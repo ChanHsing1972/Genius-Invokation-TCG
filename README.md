@@ -13,7 +13,7 @@
 &emsp;&emsp;**交互方式**：按下相应字符即可进行操作，无需输入。提供五种操作，分别对应数字 1 - 5。界面如图。
 <div align=middle>
 <img src="UI Design (1).jpg" width=320 height=auto>
-<img src="UI Design   (2).jpg" width=320 height=auto>
+<img src="UI Design (2).jpg" width=320 height=auto>
 </div>  
 
 > &emsp;你可以采取以下行动：  
