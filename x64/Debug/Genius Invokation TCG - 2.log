@@ -1,0 +1,10 @@
+﻿  codes.c
+C:\Users\14229\source\repos\Genius Invokation TCG - 2\codes.c(53,27): warning C4311: “类型强制转换”: 从“time_t (__cdecl *)(time_t *const )”到“unsigned int”的指针截断
+C:\Users\14229\source\repos\Genius Invokation TCG - 2\codes.c(97,14): warning C4013: “getch”未定义；假设外部返回 int
+C:\Users\14229\source\repos\Genius Invokation TCG - 2\codes.c(111,8): warning C4101: “cmd_lvl”: 未引用的局部变量
+C:\Users\14229\source\repos\Genius Invokation TCG - 2\codes.c(300,7): warning C4101: “temp”: 未引用的局部变量
+C:\Users\14229\source\repos\Genius Invokation TCG - 2\codes.c(766,8): warning C4101: “temp”: 未引用的局部变量
+C:\Users\14229\source\repos\Genius Invokation TCG - 2\codes.c(317): warning C4715: “IsValidChange”: 不是所有的控件路径都返回值
+C:\Users\14229\source\repos\Genius Invokation TCG - 2\codes.c(591): warning C4715: “Rival”: 不是所有的控件路径都返回值
+C:\Users\14229\source\repos\Genius Invokation TCG - 2\codes.c(461): warning C4715: “Attack”: 不是所有的控件路径都返回值
+  Genius Invokation TCG - 2.vcxproj -> C:\Users\14229\source\repos\Genius Invokation TCG - 2\x64\Debug\Genius Invokation TCG - 2.exe
