@@ -216,7 +216,7 @@ void ActionStage()
 
     ply.onstage = cmd_onstage - 1;
     cpt.onstage = (ply.onstage + 1) % 3;
-    sprintf(msg[in_msg++], "[ 你 指定出场角色：%s。 ]", ply.name[ply.onstage]);
+    sprintf(msg[in_msg++], "[ 你 指定出场角色： %s。 ]", ply.name[ply.onstage]);
     sprintf(msg[in_msg++], "[ 对手 指定出场角色：%s。 ]", cpt.name[cpt.onstage]);
     ChangeCh(1, cpt.onstage, 2);
     printf("\n\n          %s", msg[in_msg - 2]);
