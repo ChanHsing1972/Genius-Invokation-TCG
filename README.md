@@ -1,7 +1,7 @@
 # **一个简陋的七圣召唤**  
 *Created by Samuel Chan*  
 ## **基本信息**  
-**平台**：Windows 11，使用 Visual Studio 2022 进行编译
+**平台**：Windows 11，使用 Visual Studio 2022 进行编译。
 
 **C 语言环境**：gcc version 8.1.0 ( x86_64-posix-seh-rev0, Built by MinGW-W64 project ) ( mingw64 )
 
