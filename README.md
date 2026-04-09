@@ -1,27 +1,27 @@
-# **一个简陋的七圣召唤**  
+# **一个极简的七圣召唤**  
+
 *Created by Samuel Chan*  
+
 ## **基本信息**  
-**平台**：Windows 11，使用 Visual Studio 2022 进行编译。
 
-**C 语言环境**：gcc version 8.1.0 ( x86_64-posix-seh-rev0, Built by MinGW-W64 project ) ( mingw64 )
+- **平台**：Windows 11，使用 Visual Studio 2022 进行编译。
+- **C 语言环境**：gcc version 8.1.0 ( x86_64-posix-seh-rev0, Built by MinGW-W64 project ) ( mingw64 )
+- **编译选项**：默认
+- **使用的第三方库**：未使用第三方库
+- **一点提示**：按下 F11 以获得最佳观感。建议使用**分辨率高于 1920 × 1400** 的显示屏。
 
-**编译选项**：默认
-
-**使用的第三方库**：未使用第三方库
-
-**一点提示**：按下 F11 以获得最佳观感。建议使用**分辨率高于 1920 × 1400** 的显示屏。
- 
 ## **游戏方式与内容**
-用命令行实现了七圣召唤的基础功能。 
+
+用命令行实现了七圣召唤的基础功能。
 
 **基本规则**：充分利用行动点数和元素反应，打败对手所有角色，取得胜利。
 
 **交互方式**：按下相应字符即可进行操作，无需输入。提供五种操作，分别对应数字 1 - 5。界面如图。
 
 <div align=middle>
-<img src="UI Design (1).jpg" width=320 height=auto>
-<img src="UI Design (2).jpg" width=320 height=auto>
-</div>  
+<img src="UI Design (1).jpg" width=49% height=auto>
+<img src="UI Design (2).jpg" width=49% height=auto>
+</div>
 
 > 你可以采取以下行动：  
 1 - 更换角色：消耗 1 点行动点数，更换当前出战的角色。  
@@ -49,5 +49,5 @@
 8. ~~制作了原神启动的字符画。~~  
 
 <div align=middle>
-<img src="Character Info.jpg" width=640 height=auto>
+<img src="Character Info.jpg" width=100% height=auto>
 </div>
